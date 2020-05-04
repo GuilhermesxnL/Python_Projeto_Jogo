@@ -57,39 +57,3 @@ for rodada in range (1, total_de_tentativas +1):
 
 print("")
 print("FIM DO JOGO") 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-####duvidas
-#como usar uma condição para parar o programa oa digitar 
-#o número certo antes de chegar na ultima tentativa
-
-
-
-#contador = 1
-#while(contador <= 10):
- #   print(contador)
-  #  contador = contador + 2
-   # if(contador == 5):
-    #   contador = contador + 2
-
-
-#contador = 1;
-#while(contador <= 10):
-    #print(contador)
-    #contador = contador + 3
